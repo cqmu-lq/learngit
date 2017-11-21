@@ -16,6 +16,7 @@ featurel 1505
 
 dev 1513
 dev 1524
+bug 1753
 
 Git is a Idistributed version control system.
 Git is free software.
