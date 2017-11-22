@@ -14,6 +14,8 @@ featurel 1500
 >>>>>>> featurel
 featurel 1505
 
+bug 0908
+
 bug 1811
 
 Git is a Idistributed version control system.
